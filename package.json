@@ -6,7 +6,8 @@
   "scripts": {
     "build:dev": "webpack --mode development",
     "build:prod": "webpack --mode production",
-    "watch": "webpack --watch --mode production"
+    "watch": "webpack --watch --mode production",
+    "start": "webpack-dev-server --mode production"
   },
   "author": "",
   "license": "ISC",
@@ -21,6 +22,7 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
     "webpack": "^4.39.1",
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.8.0"
   }
 }

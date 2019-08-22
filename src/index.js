@@ -9,4 +9,4 @@ const gallery = new Gallery({
 
 gallery.renderList();
 
-alert('HisadsadasdsadasdssaASDASDASDDASDASDASDADASDSDASDASDSAASDAS');
+alert('dasdasdasddasdasd');
